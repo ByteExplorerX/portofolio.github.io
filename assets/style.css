@@ -293,20 +293,20 @@ h1 {
 
   main {
     background-image: url(../assets/images/mobile-main.png);
-    height: 101vh;
+    height: 101svh;
     background-position: center;
     overflow-x: hidden;
-    margin-top: -3vh;
+    margin-top: -3svh;
   }
 
   .custom-navbar-bg {
     color: white;
   }
   h1 {
-    font-size: 25px;
+    font-size: 3.5svh;
   }
   .txt{
-    margin-left: -5vh;
+    margin-left: -5svh;
     text-align: center;
   }
   .meet-me-mobile {
@@ -316,23 +316,23 @@ h1 {
   #meet-me > div.container.d-flex.align-items-center.justify-content-center.gap-2 > h2 {
     text-align: center;
     font-family: monospace;
-    font-size: 3.5vh;
+    font-size: 3svh;
     
   }
 
   #meet-me > div.container.d-flex.align-items-center.justify-content-center.gap-2 {
-    margin-bottom: 2vh;
-    margin-top: -7vh;
+    margin-bottom: 2svh;
+    margin-top: -7svh;
     border-bottom: 2px solid #222440;
   }
 
   .div-mb {
-    margin-left: 7vh;
+    margin-left: 7svh;
     padding-left: 0;
   }
 
     .button-mobile {
-      margin-left: 1vh;
+      margin-left: 1svh;
     }
     
     #know-figures {
@@ -342,7 +342,7 @@ h1 {
     }
 
     .figura {
-      margin-left: 8vh;
+      margin-left: 8svh;
     }
 
     
@@ -360,7 +360,7 @@ h1 {
     }
 
     #know-figures > div:nth-child(4) > p {
-      padding-bottom: 6vh;
+      padding-bottom: 6svh;
     }
 
     body > section.background-mobile{
@@ -374,17 +374,17 @@ h1 {
     .icons-footer {
       margin-left: auto;
       margin-right: auto;
-      margin-top: 2vh;
+      margin-top: 2svh;
     }
 
     .album {
       background-color: transparent !important;
-      width: 50vh;
+      width: 50svh;
       font-size: 13px;
       border: none;
       margin-left: auto;
       margin-right: auto;
-      margin-top: -15vh;
+      margin-top: -15svh;
     }
 
     #bg {
@@ -412,14 +412,14 @@ h1 {
   }
 
   body > section.background-mobile > div > section:nth-child(2) > div > div > div:nth-child(2) {
-    margin-bottom: 6vh;
-    margin-top: 6vh;
+    margin-bottom: 6svh;
+    margin-top: 6svh;
   }
 
   .contact {
-    padding-left: 10vh ;
-    padding-top: -2vh;
-    padding-bottom: -5vh;
+    padding-left: 10svh ;
+    padding-top: -2svh;
+    padding-bottom: -5svh;
     border-radius: 15%/70%;
   }
 
@@ -430,6 +430,6 @@ h1 {
   }
 
   body > main > div > div > div {
-    margin-bottom: 20vh;
+    margin-bottom: 20svh;
   }
 }
