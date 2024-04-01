@@ -1,6 +1,6 @@
 main {
   background-image: url(../assets/images/527.jpg);
-  height: 92vh;
+  height: 100vh;
   background-size: cover;
   width: auto !important;
   color: #ffffff;
@@ -37,8 +37,8 @@ h1:hover {
 }
 
 .know-me {
-  margin-bottom: -15vh;
-  margin-top: -5vh;
+  height: 90%;
+  width: auto;
 }
 
 .custom-navbar-bg {
@@ -361,7 +361,7 @@ body > section.background-mobile > section > div {
     display: none;  
 }
 body > main > div > div > div > div > h1:nth-child(1), body > main > div > div > div > div > h1:nth-child(2) {
-    font-size: 3.8svh;
+    font-size: 3.4svh;
   }
   .txt{
     margin-top: 18svh;
